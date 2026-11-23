@@ -1,0 +1,1 @@
+# idrid_vgg16_resnet18_colab.ipynb
